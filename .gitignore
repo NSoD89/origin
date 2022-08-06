@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+\Example001_HelloConsole\obj
+\Example001_HelloConsole\Example002_HelloUser\bin
+\Example001_HelloConsole\Example002_HelloUser\obj
